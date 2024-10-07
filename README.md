@@ -8,3 +8,7 @@ descrição
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-db40a2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mpmmarcelo/)
 [![Instagram](https://img.shields.io/badge/Instagram-db40a2?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/mpmmarcelo/)
 
+## Projetos
+
+[![EasyNFP](https://img.shields.io/badge/EasyNFP-JAVA-e60000.svg)](https://github.com/mpmmarcelo/EasyNFP)
+
