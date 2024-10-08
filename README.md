@@ -4,7 +4,10 @@ Servidor Público há 10 anos, pai da menina mais legal do mundo e apaixonado pe
 
 ## Projetos
 
-[![EasyNFP](https://img.shields.io/badge/EasyNFP-JAVA_+_JAVAFX-e60000.svg)](https://github.com/mpmmarcelo/EasyNFP) <p>
+Programa desenvolvido com a finalidade de facilitar e acelerar substancialmente o processo de baixa de notas fiscais do produtor rural - NFP.<p>
+[![EasyNFP](https://img.shields.io/badge/EasyNFP-JAVA_+_JAVAFX-e60000.svg)](https://github.com/mpmmarcelo/EasyNFP) 
+
+Programa desenvolvido com a finalidade de automatizar processos da Lei municipal 758/2023. <p>
 [![Agroinvest](https://img.shields.io/badge/Agroinvest-JAVA_+_JAVAFX-e60000.svg)](https://github.com/mpmmarcelo/Agroinvest)
 
 ## Skills
