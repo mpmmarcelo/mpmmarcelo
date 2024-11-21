@@ -10,7 +10,7 @@ Programa desenvolvido com a finalidade de facilitar e acelerar substancialmente 
 Programa desenvolvido com a finalidade de automatizar processos da Lei municipal 758/2023. <p>
 [![Agroinvest](https://img.shields.io/badge/Agroinvest-JAVA_+_JAVAFX-e60000.svg)](https://github.com/mpmmarcelo/Agroinvest)
 
-Projeto com a finalidade de ampliar o alcance do programa AGROINVEST, com forma facilitada de acesso e inclusão de dados. <p>
+Projeto com a finalidade de ampliar o alcance do programa AGROINVEST, com acesso via web e inclusão de dados facilitada. <p>
 [![Agroinvest Viewer](https://img.shields.io/badge/AgroinvestViewer-TYPESCRIPT_+_NEST-6666ff.svg)](https://github.com/mpmmarcelo/AgroinvestViewer)
 
 ## Skills
